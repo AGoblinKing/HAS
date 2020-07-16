@@ -6,7 +6,7 @@
 	"scripts": {
 		"build": "rollup -c",
 		"dev": "rollup -c -w",
-		"start": "sirv -p 8081 public "
+		"start": "sirv -p 8081 docs "
 	},
 	"author": "a_GoBLiN_KiNG",
 	"license": "MIT",
