@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		"target": "es6",
+		"module": "commonjs",
+		"moduleResolution": "node",
+		"jsx": "preserve",
+		"esModuleInterop": true,
+		"typeRoots": ["./node_modules/svelte-types", "./node_modules/@types"]
+	}
+}

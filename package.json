@@ -1,0 +1,30 @@
+{
+	"name": "hasframe",
+	"version": "1.0.0",
+	"description": "Has A Svelte Frame",
+	"main": "src/main.ts",
+	"scripts": {
+		"build": "rollup -c",
+		"dev": "rollup -c -w",
+		"start": "sirv -p 8081 public "
+	},
+	"author": "a_GoBLiN_KiNG",
+	"license": "MIT",
+	"dependencies": {
+		"sirv-cli": "^0.4.4"
+	},
+	"devDependencies": {
+		"@rollup/plugin-commonjs": "^11.0.0",
+		"@rollup/plugin-node-resolve": "^7.0.0",
+		"@types/animejs": "^3.1.1",
+		"animejs": "^3.2.0",
+		"rollup": "^1.20.0",
+		"rollup-plugin-livereload": "^1.0.0",
+		"rollup-plugin-svelte": "^5.0.3",
+		"rollup-plugin-svelte-draft": "0.0.4",
+		"rollup-plugin-terser": "^5.1.2",
+		"svelte": "^3.18.1",
+		"svelte-types": "0.0.6",
+		"three": "^0.118.3"
+	}
+}
