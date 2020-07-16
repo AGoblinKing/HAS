@@ -1,6 +1,6 @@
 # ASFRAME
 
-- DOMLess AFRAME wrapper SVELTE
+- DOMLess THREE wrapper SVELTE inspired by AFRAME
 - See src/example https://agoblinking.github.io/HAS/
 
 ```ts
